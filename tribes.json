@@ -1,0 +1,262 @@
+[
+  {
+    "id": "ID000001",
+    "name": "Acholi"
+  },
+  {
+    "id": "ID000002",
+    "name": "Aliba"
+  },
+  {
+    "id": "ID000003",
+    "name": "Alur"
+  },
+  {
+    "id": "ID000004",
+    "name": "Aringa"
+  },
+  {
+    "id": "ID000005",
+    "name": "Baamba"
+  },
+  {
+    "id": "ID000006",
+    "name": "Babukuso"
+  },
+  {
+    "id": "ID000007",
+    "name": "Babwisi"
+  },
+  {
+    "id": "ID000008",
+    "name": "Bafumbira"
+  },
+  {
+    "id": "ID000009",
+    "name": "Baganda"
+  },
+  {
+    "id": "ID000010",
+    "name": "Bagisu"
+  },
+  {
+    "id": "ID000011",
+    "name": "Bagungu"
+  },
+  {
+    "id": "ID000012",
+    "name": "Bagwe (part of Samia-Bugwe)"
+  },
+  {
+    "id": "ID000013",
+    "name": "Bagwere"
+  },
+  {
+    "id": "ID000014",
+    "name": "Bahehe"
+  },
+  {
+    "id": "ID000015",
+    "name": "Bahororo"
+  },
+  {
+    "id": "ID000016",
+    "name": "Bakenyi"
+  },
+  {
+    "id": "ID000017",
+    "name": "Bakiga"
+  },
+  {
+    "id": "ID000018",
+    "name": "Bakonzo"
+  },
+  {
+    "id": "ID000019",
+    "name": "Banyabindi"
+  },
+  {
+    "id": "ID000020",
+    "name": "Banyabutumbi"
+  },
+  {
+    "id": "ID000021",
+    "name": "Banyankore"
+  },
+  {
+    "id": "ID000022",
+    "name": "Banyara"
+  },
+  {
+    "id": "ID000023",
+    "name": "Banyaruguru"
+  },
+  {
+    "id": "ID000024",
+    "name": "Banyarwanda"
+  },
+  {
+    "id": "ID000025",
+    "name": "Banyole"
+  },
+  {
+    "id": "ID000026",
+    "name": "Banyoro"
+  },
+  {
+    "id": "ID000027",
+    "name": "Baruli"
+  },
+  {
+    "id": "ID000028",
+    "name": "Barundi"
+  },
+  {
+    "id": "ID000029",
+    "name": "Basamia"
+  },
+  {
+    "id": "ID000030",
+    "name": "Basoga"
+  },
+  {
+    "id": "ID000031",
+    "name": "Basongora"
+  },
+  {
+    "id": "ID000032",
+    "name": "Batagwenda"
+  },
+  {
+    "id": "ID000033",
+    "name": "Batoro"
+  },
+  {
+    "id": "ID000034",
+    "name": "Batuku"
+  },
+  {
+    "id": "ID000035",
+    "name": "Batwa"
+  },
+  {
+    "id": "ID000036",
+    "name": "Chope"
+  },
+  {
+    "id": "ID000037",
+    "name": "Dodoth"
+  },
+  {
+    "id": "ID000038",
+    "name": "Ethur (Acholi-Labwor)"
+  },
+  {
+    "id": "ID000039",
+    "name": "Gimara"
+  },
+  {
+    "id": "ID000040",
+    "name": "Ik (Teuso)"
+  },
+  {
+    "id": "ID000041",
+    "name": "Iteso"
+  },
+  {
+    "id": "ID000042",
+    "name": "Jie"
+  },
+  {
+    "id": "ID000043",
+    "name": "Jonam"
+  },
+  {
+    "id": "ID000044",
+    "name": "Jopadhola"
+  },
+  {
+    "id": "ID000045",
+    "name": "Kakwa"
+  },
+  {
+    "id": "ID000046",
+    "name": "Karimojong"
+  },
+  {
+    "id": "ID000047",
+    "name": "Kebu (Okebu)"
+  },
+  {
+    "id": "ID000048",
+    "name": "Kuku"
+  },
+  {
+    "id": "ID000049",
+    "name": "Kumam"
+  },
+  {
+    "id": "ID000050",
+    "name": "Langi"
+  },
+  {
+    "id": "ID000051",
+    "name": "Lendu"
+  },
+  {
+    "id": "ID000052",
+    "name": "Lugbara"
+  },
+  {
+    "id": "ID000053",
+    "name": "Madi"
+  },
+  {
+    "id": "ID000054",
+    "name": "Mening"
+  },
+  {
+    "id": "ID000055",
+    "name": "Mvuba"
+  },
+  {
+    "id": "ID000056",
+    "name": "Napore"
+  },
+  {
+    "id": "ID000057",
+    "name": "Ngikutio"
+  },
+  {
+    "id": "ID000058",
+    "name": "Nubi"
+  },
+  {
+    "id": "ID000059",
+    "name": "Nyangia"
+  },
+  {
+    "id": "ID000060",
+    "name": "Pokot"
+  },
+  {
+    "id": "ID000061",
+    "name": "Reli"
+  },
+  {
+    "id": "ID000062",
+    "name": "Sabiny"
+  },
+  {
+    "id": "ID000063",
+    "name": "Shana"
+  },
+  {
+    "id": "ID000064",
+    "name": "So (Tepeth)"
+  },
+  {
+    "id": "ID000065",
+    "name": "Vonoma"
+  }
+]
